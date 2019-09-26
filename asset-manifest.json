@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jewels/static/css/main.c9f9297f.chunk.css",
+    "main.js": "/jewels/static/js/main.f7f3a149.chunk.js",
+    "main.js.map": "/jewels/static/js/main.f7f3a149.chunk.js.map",
+    "runtime~main.js": "/jewels/static/js/runtime~main.34f6a713.js",
+    "runtime~main.js.map": "/jewels/static/js/runtime~main.34f6a713.js.map",
+    "static/js/2.0f58faaa.chunk.js": "/jewels/static/js/2.0f58faaa.chunk.js",
+    "static/js/2.0f58faaa.chunk.js.map": "/jewels/static/js/2.0f58faaa.chunk.js.map",
+    "index.html": "/jewels/index.html",
+    "precache-manifest.24267eb51dd985992150e11b6d1b4da2.js": "/jewels/precache-manifest.24267eb51dd985992150e11b6d1b4da2.js",
+    "service-worker.js": "/jewels/service-worker.js",
+    "static/css/main.c9f9297f.chunk.css.map": "/jewels/static/css/main.c9f9297f.chunk.css.map"
+  }
+}
