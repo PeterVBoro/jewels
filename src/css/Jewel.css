@@ -1,0 +1,22 @@
+.jewel-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 3.75em;
+  height: 2.9em;
+  padding: 1px;
+  border-radius: 50%;
+}
+
+.clicked { 
+  padding: 0px;
+  border: 1px solid goldenrod;
+}
+
+.fa-gem {
+  font-size: 1.75em;
+}
+
+.fa-gem:hover {
+  cursor: pointer;
+}
